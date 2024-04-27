@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h1>Your GENi Model</h1>
-	<h2>Upload your data to make to get Geni predictions</h2>
+    <h1>Your GENi test Model</h1>
+	<h2>Upload your data to make to get Geni test predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
