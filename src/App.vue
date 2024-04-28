@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h1>Your GENi MlOps Model</h1>
-	<h2>Upload your data to make to get Geni predictions</h2>
+    <h1>Your GENi MlOps Model for everyone</h1>
+	<h2>AI for everyone</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
